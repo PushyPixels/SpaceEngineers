@@ -1,4 +1,4 @@
-Space Engineers
+Space Engineers VR Experimental Thingie That Isn't Gonna Get Finished Anytime Soon
 ===============
 
 Welcome to the Space Engineers source code! 
